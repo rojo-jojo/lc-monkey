@@ -13,3 +13,5 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 [11. Container with most water](leetcode/11_container_with_most_water.py) | 
 [42. Trapping rain water](leetcode/42_trapping_rain_water.py) | 
 [4. Median of two sorted arrays](leetcode/4_media_two_sorted_arrays.py) | 
+[206. Reverse a linked list](leetcode/206_reverse_a_linkedlist.py) | 
+[21. Merge two sorted linked lists](leetcode/21_merge_two_sorted_linkedlist.py) | 
