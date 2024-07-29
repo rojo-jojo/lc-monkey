@@ -17,4 +17,5 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 ## Linked List
 [206. Reverse a linked list](leetcode/206_reverse_a_linkedlist.py) | 
 [21. Merge two sorted linked lists](leetcode/21_merge_two_sorted_linkedlist.py) | 
-[143. Reorder list](leetcode/143_reorder_list.py)
+[143. Reorder list](leetcode/143_reorder_list.py) | 
+[19. Remove nth node from end of list](leetcode/19_remove_nth_node_from_end.py)
