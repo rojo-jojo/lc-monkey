@@ -29,6 +29,9 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 
 ## Stack
 [155. Min Stack](notes/155_MinStack.md)
+[150. Reverse polish notation](notes/150_reverse_polish_notation.md)
+[22. Generate parantheses](notes/22_generate_parentheses.md)
+[739. Daily tempratures](notes/739_daily_temprature.md)
 
 ## Linked List
 [206. Reverse a linked list](leetcode/206_reverse_a_linkedlist.py) | 
@@ -38,3 +41,4 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 
 [138. Copy of list with random pointers](notes/138_CopyOfListWithRandomPointer.md)
 
+[2. Add two numbers](notes/2_addTwoNumbers.md)
