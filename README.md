@@ -46,6 +46,11 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 
 [84. Largest rectangle in histogram](notes/84_largest_rectangle_in_histogram.md)
 
+## Binary search
+[74. Search a 2-d matrix](notes/74_search_a_2d_matrix.md)
+
+[875. Koko eating bananas](./notes/875_koko_eating_bananas.md)
+
 ## Linked List
 [206. Reverse a linked list](leetcode/206_reverse_a_linkedlist.py)
 
