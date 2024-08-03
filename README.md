@@ -44,6 +44,8 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 
 [853. Car Fleet](notes/853_car_fleet.md)
 
+[84. Largest rectangle in histogram](notes/84_largest_rectangle_in_histogram.md)
+
 ## Linked List
 [206. Reverse a linked list](leetcode/206_reverse_a_linkedlist.py)
 
