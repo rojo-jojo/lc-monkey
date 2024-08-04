@@ -53,6 +53,10 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 
 [153. Find the minimum in rotated sorted array](./notes/153_minimum_in_rotated_sorted_array.md)
 
+[33. Search in a rotated sorted array](./notes/33_search_in_roatated_sorted_array.md)
+
+[981. Time based key value store](./notes/981_time_based_kv_store.md)
+
 ## Linked List
 [206. Reverse a linked list](leetcode/206_reverse_a_linkedlist.py)
 
