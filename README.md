@@ -51,6 +51,8 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 
 [875. Koko eating bananas](./notes/875_koko_eating_bananas.md)
 
+[153. Find the minimum in rotated sorted array](./notes/153_minimum_in_rotated_sorted_array.md)
+
 ## Linked List
 [206. Reverse a linked list](leetcode/206_reverse_a_linkedlist.py)
 
@@ -65,4 +67,6 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 [2. Add two numbers](notes/2_addTwoNumbers.md)
 
 ## Trees
+[110. Balanced binary tree](/notes/110_balanced_binary_tree.md)
+
 
