@@ -1,18 +1,22 @@
+# 235. Lowest common ancestor in a binary search trei
+
+## Notes
+If p and q are to the left and right of the root then root is the lca
+
+else we move to the left or the right of the tree based on where both p and q are located
+
+do this iteratively in a while loop
+
 ```python
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q:'TreeNode') -> 'TreeNode':
-        if q.val < p.val:
-            small, big = q, p
-        else:
-            small, big = p, q
-        # Condition where node splits p and q, so the node is the LCA
-        if small.val <= root.val < big.val:
-            return root
-        # condition where both are on the left side of the node
-        if big.val < root.val:
-            self.lowestCommonAncestor(root.left, p, q)
-
-        if small.val > root.val:
-            self.lowestCommonAncestor(root.right, p, q)
+        cur = root
+        while True:
+            if p.val > cur.val and q.val > cur.val:
+                cur = cur.right
+            elif p.val < cur.val and q.val < cur.val:
+                cur = cur.left
+            else:
+                return cur
 
 ```
