@@ -23,7 +23,7 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 ## Sliding Window
 [121. Best time to buy and sell stocks](notes/121_best_time_to_buy_sell_stocks.md)
 
-[3. Longest substring without repeating characters](leetcode/3_longest_substr_without_repeating.py)
+[3. Longest substring without repeating characters](notes/3_longest_substring_without_repeating.md)
 
 [424. Longest repeating character replacement](leetcode/424_longest_repeating_char_replacement.py)
 
