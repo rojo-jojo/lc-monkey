@@ -73,4 +73,7 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 ## Trees
 [110. Balanced binary tree](/notes/110_balanced_binary_tree.md)
 
+[105. Construct a binary tree](./notes/105_construct_binary_tree.md)
 
+## Heaps / Priority-queue
+[703. Kth largest element in a stream](./notes/703_Kth_largest_element_in_stream.md)
