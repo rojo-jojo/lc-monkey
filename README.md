@@ -11,11 +11,11 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 ## Two Pointers
 [167. Two Sum II- array sorted](./notes/167_two_sum_sorted.md)
 
-[15. 3Sum](leetcode/15_3sum.py)
+[15. 3Sum](./notes/15_3sum.md)
 
-[11. Container with most water](leetcode/11_container_with_most_water.py)
+[11. Container with most water](./notes/11_container_with_most_water.md)
 
-[42. Trapping rain water](leetcode/42_trapping_rain_water.py)
+[42. Trapping rain water](./notes/42_trapping_rain_water.md)
 
 [4. Median of two sorted arrays](leetcode/4_media_two_sorted_arrays.py)
 
