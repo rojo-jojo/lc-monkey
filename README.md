@@ -9,7 +9,7 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 [128. Longest Consecutive Sequence](leetcode/128_longest_consecutive_seq.py)
 
 ## Two Pointers
-[167. Two Sum II](leetcode/167_two_sum_2.py)
+[167. Two Sum II- array sorted](./notes/167_two_sum_sorted.md)
 
 [15. 3Sum](leetcode/15_3sum.py)
 
