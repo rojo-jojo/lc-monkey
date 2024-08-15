@@ -77,3 +77,5 @@ A personal repo for DSA question from leetcode and other platforms for later ref
 
 ## Heaps / Priority-queue
 [703. Kth largest element in a stream](./notes/703_Kth_largest_element_in_stream.md)
+
+[973. Kth closest points to origin](./notes/973_K_closest_points_to_origin.md)
